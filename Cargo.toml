@@ -5,3 +5,4 @@ authors = ["hellojebus <dev@hellojeb.us>"]
 edition = "2018"
 
 [dependencies]
+rand = "0.3.14"
